@@ -1,10 +1,11 @@
 /*
 QUESTION - 
 
+https://leetcode.com/problems/swap-salary/
+
 627. Swap Salary
 
 Table: Salary
-
 +-------------+----------+
 | Column Name | Type     |
 +-------------+----------+
