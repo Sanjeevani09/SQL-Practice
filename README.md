@@ -15,7 +15,7 @@ Welcome to my SQL Practice Repository! This repository contains solutions to var
 - Clone the repository and run queries on your database systems for practice.
 - Contributions and suggestions for optimization are always welcome!
 
-- # Platforms I Use
+<h3>- Platforms I Use</h3>
 
 <p align="center">
   <a href="https://www.hackerrank.com/profile/guptasanjeevani1">
