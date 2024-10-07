@@ -10,8 +10,9 @@ Welcome to my SQL Practice Repository! This repository contains solutions to var
 - Share solutions that may help others working on similar problems.
 - Each solution is crafted to handle different SQL queries, such as SELECT, JOIN, GROUP BY, Subqueries, and more advanced database concepts.
 
-<h3>How to Use</h3>
-- Explore solutions categorized by platform and topic.
+<h3>How to Use: </h3>
+
+- Explore solutions categorized by platform and topic. 
 - Clone the repository and run queries on your database systems for practice.
 - Contributions and suggestions for optimization are always welcome!
 
