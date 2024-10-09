@@ -22,15 +22,19 @@ Welcome to my SQL Practice Repository! This repository contains solutions to var
   <a href="https://www.hackerrank.com/profile/guptasanjeevani1">
     <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="HackerRank" width="50" height="50"/>
   </a>
+  
   <a href="https://www.codechef.com/users/sanjeevani09">
     <img src="https://s3.amazonaws.com/codechef_shared/sites/all/themes/abessive/logo.svg" alt="CodeChef" width="50" height="50"/>
   </a>
+  
   <a href="https://www.hackerearth.com/@guptasanjeevani970/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" alt="HackerEarth" width="50" height="50"/>
   </a>
+  
   <a href="https://leetcode.com/u/SanjeevaniGupta/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="50" height="50"/>
   </a>
+  
   <a href="https://www.linkedin.com/in/sanjeevani-gupta-a59819216">
     <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" width="50" height="50"/>
   </a>
